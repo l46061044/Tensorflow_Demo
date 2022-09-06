@@ -1,0 +1,6 @@
+*.tmp
+test_images
+train_images
+test.csv
+train.csv
+*.h5
